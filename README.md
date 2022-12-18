@@ -24,7 +24,7 @@ const args = process.argv;
 ## How to run the program?
 
 - Run `git clone https://github.com/KumarAmitt/challenge1-solana.git` to clone the repository in your local machine
--Navigate to the project directory i.e, `challenge1-solana`
+- Navigate to the project directory i.e, `challenge1-solana`
 - Run `node index.js <YOUR PUBLIC_KEY>` to see the output.
 - Example: `node index.js Dt3NKcNtUE4jNGJu8KRD6fF2KiwrFMKQ2F5dqWkbJ4zf`
 
